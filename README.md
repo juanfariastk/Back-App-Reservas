@@ -1,4 +1,4 @@
-# Backend AppReservas
+# Backend App-Reservas (airTK)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/juanfariastk/Back-App-Reservas?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/juanfariastk/Back-App-Reservas?style=for-the-badge)
